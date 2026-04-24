@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,Position,Salary,HireDate,Email
+E001,John,Chen,IT,Software Engineer,80000,2021-03-15,john.chen@example.com
+E002,Mei,Lin,HR,HR Specialist,60000,2020-07-22,mei.lin@example.com
+E003,David,Wang,Finance,Accountant,75000,2019-11-05,david.wang@example.com
+E004,Sophia,Tsai,Marketing,Marketing Manager,85000,2018-06-18,sophia.tsai@example.com
+E005,Kevin,Huang,IT,System Administrator,78000,2022-01-10,kevin.huang@example.com
+E006,Emily,Liu,Sales,Sales Executive,70000,2021-09-30,emily.liu@example.com
+E007,Jason,Yang,IT,Data Analyst,82000,2020-04-25,jason.yang@example.com
+E008,Grace,Chou,Finance,Financial Analyst,77000,2019-08-12,grace.chou@example.com
+E009,Eric,Su,Marketing,Content Specialist,65000,2022-05-03,eric.su@example.com
+E010,Amy,Kuo,HR,Recruiter,62000,2023-02-14,amy.kuo@example.com

@@ -1,0 +1,5 @@
+timestamp: 20260424_1601
+file_name: employees.txt
+new_file_name: 20260424_1601_employees.txt
+destination: my_backups\20260424_1601_employees.txt
+備份成功！檔案已存至：my_backups\20260424_1601_employees.txt
