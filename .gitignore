@@ -1,0 +1,9 @@
+# 忽略虛擬環境資料夾和 Django 專案資料夾，以及 Python 的快取資料夾
+venv/
+Projects/
+Django_1/  
+__pycache__/ 
+
+# git rm -r --cached __pycache__ 可清除 提交過的pycache 
+
+
